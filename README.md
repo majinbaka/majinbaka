@@ -7,3 +7,5 @@ with skill
  - Mysql / MongoDB :heavy_check_mark:
  - Docker :heavy_check_mark:
  - and git :tada: :tada: :tada:
+
+https://majinbaka.github.io/
